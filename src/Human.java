@@ -53,4 +53,3 @@ public class Human {
             System.out.println(Catname  + " не обнят(а)");}
     }
 }
-
